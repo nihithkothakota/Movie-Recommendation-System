@@ -1,1 +1,2 @@
 # Movie-Recommendation-System
+Developed a Movie Recommendation System using various algorithms including user- based and item-based KNN, as well as SVD matrix factorization. Implemented hyperparameter tuning through GridSearchCV to optimize model performance. Evaluated models using RMSE and visualized predictions to compare actual versus predicted ratings. The system provided personalized movie recommendations and analyzed the accuracy of predictions for a better user experience. 
